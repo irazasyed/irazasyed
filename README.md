@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif">
+  <br><br>
+  <samp>
+    I'm Syed. A full-stack web developer and internet entreprenuer from Bangalore, India.<br><br>
+     Follow me on <a href="https://twitter.com/irazasyed">Twitter</a> or Github :)
+  </samp>
+</p>
+
 <!--
 **irazasyed/irazasyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
