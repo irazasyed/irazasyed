@@ -3,7 +3,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=irazasyed&style=flat-square" alt="Profile Visits"> 
   <a href="https://github.com/irazasyed" target="_blank">
-    <img alt="Follow on GitHub" src="https://img.shields.io/github/followers/irazasyed?style=social">
+    <img alt="Follow on GitHub" src="https://img.shields.io/github/followers/irazasyed?label=Follow&style=social">
   </a>
   <a href="https://twitter.com/irazasyed" target="_blank">
     <img alt="Follow on Twitter" src="https://img.shields.io/twitter/follow/irazasyed?style=social">
