@@ -11,4 +11,7 @@
   </samp>
 </p>
 
+---
+![Metrics](/github-metrics.svg)
+
 
