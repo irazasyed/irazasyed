@@ -1,7 +1,7 @@
 > A full-stack web developer and internet entreprenuer with over a decade of expertise.
 
 <p>
-  <a href="https://contra.com/irazasyed" target="_blank">
+  <a href="https://dub.sh/irs-contra" target="_blank">
     <img alt="Hire on Contra" src="https://me7674.npkn.net/contra-badge/">
   </a>
 </p>
